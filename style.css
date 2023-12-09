@@ -1,0 +1,50 @@
+.Google{
+    text-align: center;
+}
+hr{
+    border:1px solid;
+}
+.flix{
+    display: flex;
+    justify-content: space-between;
+    margin-top:70px;
+}
+.h44{
+text-align: center;
+}
+.textarea {
+    height: 200px;
+    width: 400px;
+}
+button{
+    border-radius: 12px;
+
+
+}
+
+.all{
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+.Enter{
+    margin-left: 60px;
+}
+.Enter1{
+    margin-right: 90px;
+   
+}
+.aa{
+    border: 2px solid black;
+    border-radius: 8px 8px 0px 0px;
+    border-bottom: none;
+}
+.aaa{
+    border: 2px solid black;
+    border-radius: 8px  8px 0px 0px;
+    border-bottom: none;
+}
